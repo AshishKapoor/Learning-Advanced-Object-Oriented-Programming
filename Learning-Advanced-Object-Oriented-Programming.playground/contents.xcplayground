@@ -5,5 +5,6 @@
         <page name='Lesson 02 - Two Phase Initializations'/>
         <page name='Lesson 03 - Failable Initializations'/>
         <page name='Lesson 04 - Convenience Init'/>
+        <page name='Lesson 05 - Computed Property'/>
     </pages>
 </playground>
