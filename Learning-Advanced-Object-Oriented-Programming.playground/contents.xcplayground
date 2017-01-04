@@ -4,5 +4,6 @@
         <page name='Lesson 01 - Override'/>
         <page name='Lesson 02 - Two Phase Initializations'/>
         <page name='Lesson 03 - Failable Initializations'/>
+        <page name='Lesson 04 - Convenience Init'/>
     </pages>
 </playground>
