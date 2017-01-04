@@ -6,5 +6,6 @@
         <page name='Lesson 03 - Failable Initializations'/>
         <page name='Lesson 04 - Convenience Init'/>
         <page name='Lesson 05 - Computed Property'/>
+        <page name='Lesson 06 - Property Observer'/>
     </pages>
 </playground>
