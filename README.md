@@ -10,3 +10,5 @@ Lesson 03 - Failable Initializations
 Lesson 04 - Convenience Init
 
 Lesson 05 - Computed Property
+
+Lesson 06 - Property Observers
